@@ -1,0 +1,2 @@
+C:\Projects\Android\SherlockTest\SherlockTest\bin\Debug\SherlockTest.dll
+C:\Projects\Android\SherlockTest\SherlockTest\bin\Debug\ActionBarSherlock.dll
